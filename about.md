@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+TwisterJS is an open source project dedicated to teaching underprivileged children about tech. We create mobile apps, as well as spend time in the classroom working directly with children.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+All of our projects are available on our [GitHub page](http://www.github.com/twisterjs), along with documentation on how to edit and use the apps.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The project is the brainchild of Carmen Long. You can find her tweeting as [Carmalou](www.twitter.com/carmalou) and coding [here](http://www.github.com/carmalou).
