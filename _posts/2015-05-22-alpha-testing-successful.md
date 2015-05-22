@@ -8,7 +8,7 @@ I am pleased to announce that we had a successful first round of alpha testing t
 
 I was in a bit of a rush getting the first app to a testable state. School was letting out very soon, so I didn't have much time for students to test the app.
 
-The code for the app is [TwisterJS: HTML for Beginners](http://www.github.com/TwisterJS/htmlApp). This app includes a video, two games, and a short glossary of HTML tags. [You can run the app in your browser here.](http://TwisterJS.github.io/htmlApp/www)
+The code for the app is [TwisterJS: HTML for Beginners](https://github.com/TwisterJS/htmlApp). This app includes a video, two games, and a short glossary of HTML tags. [You can run the app in your browser here.](http://twisterjs.github.io/htmlApp/www/)
 
 I decided to do a mobile app as our first project because several of the students we were targeting don't have Internet or even computers at home. Although, family members frequently have smartphones. 
 
