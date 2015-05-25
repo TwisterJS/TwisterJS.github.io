@@ -5,7 +5,7 @@ date: 2015-05-22
 categories:
 ---
 
-I thought it would be good to give a little backstory on TwisterJS -- a little bit more than what is on the [About page](aboutpage).
+I thought it would be good to give a little backstory on TwisterJS -- a little bit more than what is on the [About page](http://twisterjs.github.io/about/).
 
 TwisterJS is an open source project by me, [Carmen Long](http://www.twitter.com/carmalou). I came up with this idea because the kiddos at Tulakes Elementary are some of the poorest kids in this district. They are all on free lunches through a grant, and frequently on some sort of aid at home -- SNAP, SoonerCare, or something similar.
 
