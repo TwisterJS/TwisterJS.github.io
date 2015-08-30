@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting the word out: Saturday Discussion"
-date: 2015-05-22
+date: 2015-08-29
 categories:
 ---
 This morning I had the privilege of leading [Code Newbies](http://www.codenewbie.org/) [Saturday Discussion](http://www.codenewbie.org/blogs/saturday-discussion). (You can watch it [here](https://plus.google.com/events/c3rtn7g5g3ott25mnqigkmlp490)).
