@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TwisterJS, a backstory"
-date: 2015-05-22
+date: 2015-05-24
 categories:
 ---
 
