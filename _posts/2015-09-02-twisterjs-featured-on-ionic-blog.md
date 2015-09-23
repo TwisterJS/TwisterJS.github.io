@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Getting the word out: Saturday Discussion"
-date: 2015-08-29
+title:  "TwisterJS featured on Ionic's blog"
+date: 2015-09-02
 categories:
 ---
 I'm happy to announce that TwisterJS was featured on Ionic's blog! You can read the full post [here](http://blog.ionic.io/teaching-mobile-development-with-ionic/).
